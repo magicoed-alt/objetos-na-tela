@@ -1,0 +1,10 @@
+OBJETO NA TELA - Eduardo Braz · Digital Magic
+
+1) Suba TODOS os arquivos desta pasta para uma pasta NOVA no seu GitHub (ex.: /objeto), separada do app da Bola de Espuma, e ative o GitHub Pages.
+2) No iPad: abra o link no Safari > Compartilhar > "Adicionar à Tela de Início". Abra sempre pelo ícone.
+3) Abra uma vez com internet. Depois funciona offline.
+4) Menu: escolha o fundo, escolha o objeto (PNG com fundo transparente) e toque em INICIAR (permita "Movimento e Orientação").
+5) Toque na faixa de baixo da tela = o objeto aparece no centro e escorrega pela gravidade.
+   Arraste o objeto até passar da borda = ele some.
+   Toque 3 vezes (fora da faixa de baixo, ou com o objeto na tela) = volta ao menu.
+Dica: PNG com transparência: na janela de escolha, use "Escolher Arquivo" (app Arquivos) se a Fototeca entregar a imagem sem transparência.
